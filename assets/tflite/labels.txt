@@ -1,0 +1,2 @@
+0 pulmonary_disease
+1 normal
